@@ -1,8 +1,7 @@
 #Guess the random number in given range.
 import random
 
-
-print("If you want to quit enter: quit")
+print("If you want to quit the game, enter: quit")
 
 guess=''
 while True :
